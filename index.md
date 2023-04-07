@@ -9,13 +9,13 @@ This step, in particular, was one that I didn't have to do since I already had V
 ![Image](Screen Shot 2023-04-06 at 4.56.45 PM.png)
 
 
-##Step 2: Open Terminal
+## Step 2: Open Terminal
 Since I have a Mac, bash had already been downloaded. Therefore, the next step I took was to click on terminal located here 
 ![Image](Screen Shot 2023-04-06 at 4.59.18 PM.png)
 
 and then selected New Terminal. 
 
-##Step 3: Logging In
+## Step 3: Logging In
 Type in ssh cs15lsp23zz@ieng6.ucsd.edu where zz are two letter that you must fill in from your own personal username. 
 
 Next you will get a prompt like 
@@ -29,7 +29,7 @@ This is how it should look like when you are done logging in.
 ![Image](Screen Shot 2023-04-06 at 5.05.17 PM.png)
 
 
-##Step 4: Trying Some Commands
+## Step 4: Trying Some Commands
 Some interesting commands to try are cd and ls. Both of them are commands that are important when using the terminal. ls lets the user check what files are in a certain folder and cd is how to get into another folder. I used pwd to show how the user is changing the path. Here is how it looked like for me when I entered folder perl5. 
 
 ![Image](Screen Shot 2023-04-06 at 5.09.19 PM.png)
