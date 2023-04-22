@@ -30,7 +30,7 @@ This is how it should look like when you are done logging in.
 
 
 ## Step 4: Trying Some Commands
-Some interesting commands to try are cd and ls. Both of them are commands that are important when using the terminal. ls lets the user check what files are in a certain folder and cd is how to get into another folder. I used pwd to show how the user is changing the path. Here is how it looked like for me when I entered folder perl5. 
+Some interesting commands to try are cd and ls. Both of them are commands that are important when using the terminal. The command ls stands for list which means that it lets the user check what files are in the current working directory. I find it incredibly usful to check if the file I'm looking for is in the correct directory. There are different prompts you can add to ls like ls -a that also prints hidden files. The command cd stands for change directory and the user uses it in order enter a directory/folder. You can also use cd - in order to enter a previous directory. In addition, you can use the command cd /folder/subfolder in order to enter a certain subfolder. In addition, in the screenshot I used I used pwd to show how the user is changing the path. Here is how it looked like for me when I entered folder perl5. 
 
 ![Image](Screen Shot 2023-04-06 at 5.09.19 PM.png)
 
